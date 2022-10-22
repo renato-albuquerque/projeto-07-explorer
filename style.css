@@ -28,7 +28,7 @@ body {
 }
 
 .page {
-    max-width: clamp(33rem, 20rem + 35vw, 117rem);
+    max-width: clamp(33rem, 20rem + 40vw, 117rem);
     margin: 0 5rem;
     margin: auto;
 }
