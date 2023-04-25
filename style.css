@@ -79,7 +79,7 @@ main {
      /*animation-name: downtop;
     animation-duration: 700ms;
     animation-delay: 350ms;
-    animation-fill-mode: backwards; (Retorna a instrução original). */
+    animation-fill-mode: backwards; (Returns the original statement). */
     animation: left-right 700ms 350ms backwards;
 }
 
@@ -125,7 +125,7 @@ main {
     width: fit-content;
 }
 
-@keyframes topdown { /* Instrução para criação da animação. */
+@keyframes topdown { /* Instruction for creating the animation. */
     0% {
         opacity: 0;
         transform: translateY(-15px);
