@@ -11,7 +11,7 @@
     --hue: 250;
     --bg-primary: hsl(var(--hue), 22%, 20%);
     --fc-primary: hsl(var(--hue), 0%, 100%);
-    --fc-secundary: hsl(var(--hue), 50%, 80%);
+    --fc-secondary: hsl(var(--hue), 50%, 80%);
     --fc-secondary-dark: hsl(var(--hue), 100%, 11%);   
 
     font-size: 62.5%;
@@ -49,7 +49,7 @@ header {
 }
 
 header p {
-    color: var(--fc-secundary);
+    color: var(--fc-secondary);
     text-transform: uppercase;
 
     font-style: normal;
